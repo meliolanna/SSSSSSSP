@@ -241,7 +241,7 @@ end
 
 % Computing acoustic pressure
 pout = Fout ./ Seff;
-toc
+
 % Time Domain Plots
 figure
 set(gcf, 'Color', 'w');
